@@ -1,2 +1,2 @@
-# Multithreading_C-_Example
+# Multithreading_Cpp_Example
 Multithreading C++ Example
